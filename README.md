@@ -10,7 +10,7 @@ pkg install git -y
 pip install requests
 pip install bs4
 git clone https://github.com/DRUNK01/DCrackerPro
-cd DrunkCracker
+cd DCrackerPro
 python drunkCracker.py
 ```
 
