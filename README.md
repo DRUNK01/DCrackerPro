@@ -11,6 +11,6 @@ pip install requests
 pip install bs4
 git clone https://github.com/DRUNK01/DCrackerPro
 cd DCrackerPro
-python drunkCracker.py
+python DrunkCracker.py
 ```
 
